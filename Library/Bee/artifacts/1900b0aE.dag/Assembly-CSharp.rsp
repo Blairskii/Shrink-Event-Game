@@ -329,6 +329,10 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Sprite.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.62f2/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.62f2/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Interactibles/DoorController.cs"
@@ -342,6 +346,7 @@
 "Assets/Scripts/Player/PlayerController2D.cs"
 "Assets/Scripts/Player/PlayerInputHandler.cs"
 "Assets/Scripts/Player/PlayerStateController.cs"
+"Assets/Scripts/UI/WinTrigger.cs"
 -langversion:9.0
 /deterministic
 /optimize+
